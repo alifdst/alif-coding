@@ -1,2 +1,3 @@
 file pertama
 - pertamakali akses github
+- pertama edit github
